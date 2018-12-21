@@ -1,6 +1,13 @@
-## st - simple terminal
+# st - simple terminal
 
 This repo is a fork of [st](https://st.suckless.org) - a simple terminal emulator for X which sucks less.
+
+## Patches
+
+Following [patches](https://st.suckless.org/patches/) are already applied:
+
+- alpha - for transparent background
+- dracula - nice theme
 
 ## Requirements
 
