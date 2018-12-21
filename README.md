@@ -7,6 +7,7 @@ This repo is a fork of [st](https://st.suckless.org) - a simple terminal emulato
 Following [patches](https://st.suckless.org/patches/) are already applied:
 
 - alpha - for transparent background
+- clipboard - enable copy after select text
 - dracula - nice theme
 
 ## Requirements
