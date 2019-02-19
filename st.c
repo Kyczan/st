@@ -2661,6 +2661,7 @@ draw(void)
 	}
 	term.ocx = cx, term.ocy = term.c.y;
 	xfinishdraw();
+	xximspot(term.ocx, term.ocy);
 }
 
 void
